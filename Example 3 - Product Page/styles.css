@@ -28,7 +28,6 @@ body {
 
 .product-details {
   text-align: left;
-  gap: 25px;
   padding: 50px;
 
   /* Add flexbox */
