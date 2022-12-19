@@ -1,0 +1,4 @@
+-- Hints --
+1. Center the entire holiday ideas section to the center of the screen (center on both the main and cross axes)
+2. To make each idea appear side by side, use a flexbox on the section with the class of "ideas", add a gap to space them out
+3. To make each individual idea have their images, heading, description and button appear one of top another, use a column and a gap as well

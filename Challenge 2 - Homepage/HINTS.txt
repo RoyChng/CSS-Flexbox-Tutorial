@@ -1,0 +1,8 @@
+-- Hints for Navigation Bar --
+1. Create a flexbox for the nav element, use space between for the justify content property to push everything to both ends. There is some padding so the links and logo doesn't touch the edge.
+2. Within the nav-links class create another flexbox align the items to the center (you can use baseline here as well!)
+
+-- Hints for Hero Section --
+1. Create a flexbox for the element with the hero class, use space between for the justify content property to push everything to both ends. There is some padding already added as well.
+2. Within the element with the hero-info class, use a flexbox to center everything within it on top of one another. Add a gap as well.
+3. (Optional) Place the buttons side by side by making its parent class .hero-btns a flexbox and adding a gap. You can alternatively just add some margin.

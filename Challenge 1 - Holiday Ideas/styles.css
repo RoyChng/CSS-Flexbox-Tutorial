@@ -1,0 +1,65 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.holiday-ideas {
+  min-height: 100vh;
+  padding: 100px;
+}
+
+h1 {
+  color: #227c70;
+  font-size: 2.4rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.heading p {
+  font-size: 1.4rem;
+  color: #293462;
+  text-align: center;
+  font-weight: 700;
+  opacity: 0.7;
+}
+
+.ideas {
+  width: 100vw;
+}
+
+.idea img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0px 3px 6px #00000016;
+}
+
+.idea {
+}
+
+.idea h3 {
+  color: #1c315e;
+  font-size: 1.3rem;
+}
+
+.idea p {
+  color: #293462;
+  opacity: 0.6;
+  font-weight: 600;
+}
+
+.idea button {
+  padding: 10px 70px;
+  background-color: #eebd83;
+  color: #3e2c18;
+  border-radius: 1rem;
+  border: none;
+  box-shadow: 0px 3px 6px #00000016;
+  cursor: pointer;
+}

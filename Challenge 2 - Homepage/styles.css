@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Navigation styling */
+
+header {
+  box-shadow: 0px 3px 6px #00000016;
+}
+
+nav {
+  padding: 40px 50px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+.nav-img {
+  width: 100px;
+}
+
+nav li {
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: #1c315e;
+  cursor: pointer;
+}
+
+nav li:hover {
+  color: #227c70;
+}
+
+.nav-links {
+}
+
+.nav-btn {
+  background-color: #227c70;
+  color: #fff;
+  padding: 20px 40px;
+  border-radius: 1rem;
+}
+
+.nav-btn:hover {
+  color: #fff;
+}
+
+/* Hero Section styling */
+
+.hero {
+  min-height: 80vh;
+  padding: 40px 50px;
+}
+
+.hero-info {
+}
+
+.hero h1 {
+  font-size: 5rem;
+  color: #227c70;
+}
+
+.hero-img {
+  width: 700px;
+}
+
+.hero-btns {
+}
+
+.hero-btns button {
+  font-weight: 700;
+  font-size: 1.5rem;
+  padding: 15px 70px;
+  border-radius: 1rem;
+  border: none;
+  box-shadow: 0px 3px 6px #00000016;
+}
+
+.btn-get-started {
+  background-color: #227c70;
+  color: #fff;
+}
+
+.btn-sign-up {
+  background-color: #c8e6d1;
+  color: #227c70;
+}
